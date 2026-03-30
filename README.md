@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Anubhav Harsh Sinha
+# 👋 Hi, I'm Anubhav Sinha
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
 #### *Transforming Ideas into Scalable Solutions*
@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-🎓 Computer Science student from India passionate about building impactful technology
+🎓 Software Developer from India passionate about building impactful technology
 🤖 Currently exploring **Artificial Intelligence & Machine Learning**
 💡 Problem solver with 300+ coding challenges conquered
 🏆 Recognized for excellence in software development and innovation
@@ -86,17 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisisanubhav&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisanubhav&layout=compact&theme=radical)
-
-</div>
-
----
 
 <div align="center">
 
