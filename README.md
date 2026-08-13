@@ -96,23 +96,6 @@ My goal isn't just to solve problems.
 
 **It's to understand why the solution works.**
 
----
-
-## 🌱 Currently Learning
-
-```text
-Go
- ├── Concurrency
- ├── Goroutines
- ├── Channels
- └── Distributed Systems
-
-Backend Engineering
- ├── APIs
- ├── Databases
- ├── System Design
- └── Scalability
-```
 
 ---
 
