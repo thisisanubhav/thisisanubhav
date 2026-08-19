@@ -81,24 +81,6 @@ It's code that **keeps working when the problem gets bigger.**
 
 ---
 
-## 💻 Problem Solving
-
-I spend a lot of time sharpening my fundamentals through **Data Structures & Algorithms**.
-
-```text
-Arrays          → Trees
-Graphs          → Dynamic Programming
-Recursion       → Greedy Algorithms
-Binary Search   → Graph Algorithms
-```
-
-My goal isn't just to solve problems.
-
-**It's to understand why the solution works.**
-
-
----
-
 ## 🌐 Find Me Around the Internet
 
 <div align="center">
